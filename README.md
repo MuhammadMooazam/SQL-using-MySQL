@@ -1,1 +1,1 @@
-# SQL-using-MySQL
+# Learn SQL using MySQL Workbench
