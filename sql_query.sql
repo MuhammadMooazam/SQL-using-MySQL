@@ -342,8 +342,10 @@ ALTER TABLE student
 DROP COLUMN grade;
 
 -- Select all records from the 'student' table
-
--- JOINS:
+SELECT *
+FROM student;
+	
+-- JOINS:-
 -- In the following joins, 'A' represents the left table, and 'B' represents the right table.
 -- INNER JOIN - Common Data (Intersection - A∩B)
 -- LEFT JOIN or LEFT OUTER JOIN - Only in A and both not in B - (A-B)
